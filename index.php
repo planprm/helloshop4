@@ -13,7 +13,13 @@
             }
 
             
-            echo "amir";
+            echo "viriotest";
+            
+            
+            
+            
+            websiteour;
+            websiteabouttest;
            
       }
 ?>
@@ -55,10 +61,10 @@
         echo "https//snoocppy.github.io/";
         echo "<h3>Contacts</h3>";
         echo "<p>email: progamailism@yandex.ru</p>";
-        echo "<p>Facebook: @ismagilovamir</p>";
-        echo "<p>Twitter: @AmirIsmagilov</p>";
-        echo "<p>VK | Vkontakte: @amirismagilov</p>";
-        echo "<p><a href='helloshop.herokuapp.com'>helloshop.herokuapp.com</a></p>";
+        echo "<p>: @ismagilovamir</p>";
+        echo "<p>: @AmirIsmagilov</p>";
+        echo "<p>: @amirismagilov</p>";
+        echo "<p><a href='helloshop.com'>helloshop.com</a></p>";
         echo "<h3>Sha 1 Sum</h3>";
         echo "<p>013fecbdacf7b09a9a8ca41472efd7fb5cb1ea98(sha-1)</p>";
         echo "<p>ce022b63ad00c614803afb41696e859f95d17afe(sha-1)</p>";
